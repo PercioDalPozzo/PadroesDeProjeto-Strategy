@@ -1,0 +1,24 @@
+C:\Users\Percio\Desktop\EstudoPadrõesDeProjeto\1-SimuladorFazenda\SimuladorFazenda\SimuladorFazenda\bin\Debug\SimuladorFazenda.exe.config
+C:\Users\Percio\Desktop\EstudoPadrõesDeProjeto\1-SimuladorFazenda\SimuladorFazenda\SimuladorFazenda\bin\Debug\SimuladorFazenda.exe
+C:\Users\Percio\Desktop\EstudoPadrõesDeProjeto\1-SimuladorFazenda\SimuladorFazenda\SimuladorFazenda\bin\Debug\SimuladorFazenda.pdb
+C:\Users\Percio\Desktop\EstudoPadrõesDeProjeto\1-SimuladorFazenda\SimuladorFazenda\SimuladorFazenda\obj\Debug\ConsoleApplication1.Pato.resources
+C:\Users\Percio\Desktop\EstudoPadrõesDeProjeto\1-SimuladorFazenda\SimuladorFazenda\SimuladorFazenda\obj\Debug\SimuladorFazenda.Properties.Resources.resources
+C:\Users\Percio\Desktop\EstudoPadrõesDeProjeto\1-SimuladorFazenda\SimuladorFazenda\SimuladorFazenda\obj\Debug\SimuladorFazenda.csproj.GenerateResource.Cache
+C:\Users\Percio\Desktop\EstudoPadrõesDeProjeto\1-SimuladorFazenda\SimuladorFazenda\SimuladorFazenda\obj\Debug\SimuladorFazenda.exe
+C:\Users\Percio\Desktop\EstudoPadrõesDeProjeto\1-SimuladorFazenda\SimuladorFazenda\SimuladorFazenda\obj\Debug\SimuladorFazenda.pdb
+C:\Users\Percio\Desktop\EstudoPadrõesDeProjeto\1-SimuladorFazenda\SimuladorFazenda\SimuladorFazenda\obj\Debug\SimuladorFazenda.csprojResolveAssemblyReference.cache
+C:\Users\Percio\Desktop\EstudoPadrõesDeProjeto\1-SimuladorFazenda\SimuladorFazenda\SimuladorFazenda\obj\Debug\SimuladorFazenda.Fazenda.resources
+C:\Users\Percio\Desktop\EstudoPadrõesDeProjeto\1-SimuladorFazenda\SimuladorFazenda\SimuladorFazenda\obj\Debug\ConsoleApplication1.Porco.resources
+C:\Users\percio.pozzo\OneDrive - Anheuser-Busch InBev\Desktop\Eureka\Strategy\SimuladorFazenda\SimuladorFazenda\bin\Debug\SimuladorFazenda.exe.config
+C:\Users\percio.pozzo\OneDrive - Anheuser-Busch InBev\Desktop\Eureka\Strategy\SimuladorFazenda\SimuladorFazenda\bin\Debug\SimuladorFazenda.exe
+C:\Users\percio.pozzo\OneDrive - Anheuser-Busch InBev\Desktop\Eureka\Strategy\SimuladorFazenda\SimuladorFazenda\bin\Debug\SimuladorFazenda.pdb
+C:\Users\percio.pozzo\OneDrive - Anheuser-Busch InBev\Desktop\Eureka\Strategy\SimuladorFazenda\SimuladorFazenda\obj\Debug\SimuladorFazenda.csproj.AssemblyReference.cache
+C:\Users\percio.pozzo\OneDrive - Anheuser-Busch InBev\Desktop\Eureka\Strategy\SimuladorFazenda\SimuladorFazenda\obj\Debug\SimuladorFazenda.csproj.SuggestedBindingRedirects.cache
+C:\Users\percio.pozzo\OneDrive - Anheuser-Busch InBev\Desktop\Eureka\Strategy\SimuladorFazenda\SimuladorFazenda\obj\Debug\SimuladorFazenda.Fazenda.resources
+C:\Users\percio.pozzo\OneDrive - Anheuser-Busch InBev\Desktop\Eureka\Strategy\SimuladorFazenda\SimuladorFazenda\obj\Debug\ConsoleApplication1.Pato.resources
+C:\Users\percio.pozzo\OneDrive - Anheuser-Busch InBev\Desktop\Eureka\Strategy\SimuladorFazenda\SimuladorFazenda\obj\Debug\ConsoleApplication1.Porco.resources
+C:\Users\percio.pozzo\OneDrive - Anheuser-Busch InBev\Desktop\Eureka\Strategy\SimuladorFazenda\SimuladorFazenda\obj\Debug\SimuladorFazenda.Properties.Resources.resources
+C:\Users\percio.pozzo\OneDrive - Anheuser-Busch InBev\Desktop\Eureka\Strategy\SimuladorFazenda\SimuladorFazenda\obj\Debug\SimuladorFazenda.csproj.GenerateResource.cache
+C:\Users\percio.pozzo\OneDrive - Anheuser-Busch InBev\Desktop\Eureka\Strategy\SimuladorFazenda\SimuladorFazenda\obj\Debug\SimuladorFazenda.csproj.CoreCompileInputs.cache
+C:\Users\percio.pozzo\OneDrive - Anheuser-Busch InBev\Desktop\Eureka\Strategy\SimuladorFazenda\SimuladorFazenda\obj\Debug\SimuladorFazenda.exe
+C:\Users\percio.pozzo\OneDrive - Anheuser-Busch InBev\Desktop\Eureka\Strategy\SimuladorFazenda\SimuladorFazenda\obj\Debug\SimuladorFazenda.pdb
